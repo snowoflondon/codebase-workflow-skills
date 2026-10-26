@@ -36,4 +36,3 @@ All skills follow the [shared skills contract](docs/design-principles.md). In br
 ## Project status
 
 This repository is an initial proof of concept. All seven skills have defined workflows. No setup or invocation tooling is included yet.
-# codebase-workflow-skills
